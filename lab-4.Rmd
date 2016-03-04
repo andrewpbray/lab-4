@@ -1,0 +1,8 @@
+---
+title: "Lab 4: Classification"
+author: "your names go here"
+output: 
+  html_document: 
+    highlight: pygments
+    theme: spacelab
+---
